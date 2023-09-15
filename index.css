@@ -59,10 +59,46 @@ body, ul, li {
     color: black;
 }
 
-.div-1{
-    background-color: #333;
-    color: #fff;
+.row{
+background-color: #282a35;
+background-image: url(../Images/cat.png);
+background-position: right center;
+background-repeat: no-repeat;
+text-align: center;
+padding: 13px;
+}
+
+.row h1{
+padding-top:100px;
+text-align: center;
+color:#fff;
+font-size:70px;
+}
+
+.row h2{
+padding-top: 20px;
+padding-bottom: 20px;
+color:#fff4a3;
+text-align: center;
+}
+
+.row h3{
+padding-top: 20px;
+padding-bottom: 20px;
+color:#ffffff;
+text-align: center;
+text-decoration: underline;
+}
+
+.search-con{
     text-align: center;
-    padding: 13%;
+}
+
+.searchbox{
+margin-left:400px;
+width: 450px;
+padding:10px;
+border-radius: 20px;
+border:1px solid #CCC;
 }
 
